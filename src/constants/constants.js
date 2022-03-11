@@ -29,10 +29,10 @@ export const projects = [
   {
     title: 'House market',
     description: "This is a real-estate website where houses can be sold or bought and also rented, users can put their houses up for rent oor sale and can also explore other Houses, users can also contact the land;oprds for the houses listed, discounts can also be given on the houses.",
-    image: '/images/4.jpg',
+    image: '/images/House.png',
     tags: ['React', 'CSS', 'Firebase','leaflet','geocoding'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/inuoluwadunsimi/Housemarket',
+    visit: 'https://housemarket-inuoluwadunsimi.vercel.app',
     id: 3,
   },
 ];
