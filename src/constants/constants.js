@@ -1,13 +1,5 @@
 export const projects = [
-  {
-    title: 'Remarque',
-    description:"This project is the landing page of a productivity app built with react and tailwind css, It also has a review slider at the beneath",
-      image: '/images/remakue.png',
-      tags: ['React', 'tailwind', 'github pages'],
-    source: 'https://github.com/inuoluwadunsimi/Remakue',
-    visit: 'http://inuoluwadunsimi.github.io/Remakue',
-    id: 0,
-  },
+  
   {
     title: 'Feedback App',
     description:"This is a loittle web app that can be used to give ratings and comments to apps and services,the ratings can be edited an also deletedm ratings can be given between 1-10.",
@@ -15,7 +7,7 @@ export const projects = [
     tags: ['React', 'CSS','Json'],
     source: 'https://github.com/inuoluwadunsimi/Review-App',
     visit: 'http://inuoluwadunsimi.github.io/Review-App',
-    id: 1,
+    id: 0,
   },
   {
     title: 'Github finder',
@@ -24,6 +16,15 @@ export const projects = [
       tags: ['React', 'Tailwind','github API','daisy UI'],
     source: 'https://github.com/inuoluwadunsimi/Github-Finder',
     visit:'http://inuoluwadunsimi.github.io/Github-Finder',
+    id: 1,
+  },
+  {
+    title: 'Cryptoverse',
+    description:"This is a web app that gives information about different cryptocurrencies and trending news about them.",
+      image: '/images/remakue.png',
+      tags: ['React', 'ant design', 'Rapid API','redux tool kit','chart.js'],
+    source: 'https://github.com/inuoluwadunsimi/Cryptoverse',
+    visit: 'https://cryptoverse-git-main-inuoluwadunsimi.vercel.app/',
     id: 2,
   },
   {
