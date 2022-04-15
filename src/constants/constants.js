@@ -21,7 +21,7 @@ export const projects = [
   {
     title: 'Cryptoverse',
     description:"This is a web app that gives information about different cryptocurrencies and trending news about them.",
-      image: '/images/remakue.png',
+      image: '/images/crypto.png',
       tags: ['React', 'ant design', 'Rapid API','redux tool kit','chart.js'],
     source: 'https://github.com/inuoluwadunsimi/Cryptoverse',
     visit: 'https://cryptoverse-git-main-inuoluwadunsimi.vercel.app/',
@@ -33,7 +33,7 @@ export const projects = [
     image: '/images/House.png',
     tags: ['React', 'CSS', 'Firebase','leaflet','geocoding'],
     source: 'https://github.com/inuoluwadunsimi/Housemarket',
-    visit: 'https://housemarket-inuoluwadunsimi.vercel.app',
+    visit: 'https://houseapp-inuoluwadunsimi.vercel.app/',
     id: 3,
   },
 ];
