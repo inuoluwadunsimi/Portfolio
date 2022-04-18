@@ -9,8 +9,8 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
-           <LinkItem href='tel:=+2348130403790'>+2348130403790</LinkItem>
+          <LinkTitle>Tweet</LinkTitle>
+           <LinkItem href='https://twitter.com/inuoluwadunsiml'> @inuoluwadunsiml</LinkItem>
         
         </LinkColumn>
         <LinkColumn>
